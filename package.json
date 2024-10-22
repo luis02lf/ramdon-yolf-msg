@@ -1,0 +1,12 @@
+{
+  "name": "ramdon-yolf-msg",
+  "version": "1.0.0",
+  "description": "ramdon-string-msg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Luis Felipe F",
+  "license": "MIT"
+}
